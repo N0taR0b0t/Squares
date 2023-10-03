@@ -1,0 +1,6 @@
+Color selector
+Save as json: text, location, size, color, timestamp, time period
+Category splitter (hump?)
+Auto sort squares bottom up by size
+Sliders for bounce factor (with default button)
+Sliders for gravity (with default button)

@@ -1,0 +1,14 @@
+html, body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  background-color: #555555;
+}
+
+input {
+  width: 5%;
+  text-align: center;
+  margin-left: 15%;
+}
